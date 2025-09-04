@@ -1,4 +1,4 @@
-# Having_Fun_With_Pull
+# my_pull_exercise
 
 We are doing pull requests!
 
